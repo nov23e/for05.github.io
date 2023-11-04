@@ -1,4 +1,4 @@
-baseURL = "https://hugo-1rc.pages.dev/"
+baseURL = "https://hugo-1rc.pages.dev"
 # title = "Hugo Themes"
 author = "Steve Francia"
 copyright = "Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved."
