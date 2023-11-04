@@ -11,8 +11,8 @@ enableInlineShortcodes = true
 ignoreErrors = ["error-remote-getjson"]
 
 # ------------------------------
-theme = "hugo-paper"
-title = "Paper"
+theme = "paper"
+title = "paper"
 
 [params]
   color = 'linen'
