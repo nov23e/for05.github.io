@@ -1,7 +1,7 @@
-baseURL = "https://monose.on.fleek.co/"
+baseURL = "https://nov23e.eth/"
 # title = "Hugo Themes"
-author = "Steve Francia"
-copyright = "Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved."
+author = "Cyril Wong"
+copyright = "Copyright © 2024, Cyril Wong; all rights reserved."
 paginate = 3
 languageCode = "en"
 DefaultContentLanguage = "en"
@@ -12,7 +12,7 @@ ignoreErrors = ["error-remote-getjson"]
 
 # ------------------------------
 theme = "ananke"
-title = "paper"
+title = "404 Not Found"
 
 [params]
   color = 'linen'
